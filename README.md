@@ -1,6 +1,5 @@
 #SELFBOT PHET HACK BOT
 
-test..
 sudo apt-get update
 
 sudo apt-get upgrade
